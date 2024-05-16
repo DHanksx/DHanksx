@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## I’m a studnet from ShanghaiTech University😇
+# I’m currently learning computer architecture and machine learning💩
+# Hope I can quickly understand how Github works🙏
 <!--
 **DHanksx/DHanksx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
